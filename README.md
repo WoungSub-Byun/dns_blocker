@@ -5,6 +5,7 @@
 사용 기술
 - Python
 - Sqlite
+- Kivy - GUI 프로그램 개발
 
 ## Commit rules
 - `feat` - **새로운 기능**에 대한 커밋
